@@ -22,9 +22,9 @@ client.on('message', msg => {
    
    .addField(`${prefix}platdesteaç`, `Platin deste açar.**13 Adet Deste Eklendi**`)
 
-   .addField(`${prefix}rastgeleyayın`, `Kemal Eray Sönmez'in yayınlardan birisini atar.`)
+   .addField(`${prefix}rastgeleyayın`, `Hakkı Çanak'ın yayınlardan birisini atar.`)
 
-   .addField(`${prefix}sonyayın`, `Kemal Eray Sönmez'in yapmış olduğu en son yayını atar atar.`)
+   .addField(`${prefix}sonyayın`, `Hakkı Çanak'ın yapmış olduğu en son yayını atar atar.`)
 
    .addField(`${prefix}yayın`, `Yayın var mı yok mu onu söyler.`)
 
