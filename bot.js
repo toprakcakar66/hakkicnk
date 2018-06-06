@@ -62,7 +62,7 @@ client.on('message', msg => {
     msg.reply(`**Komutu kullandığınız için teşekkürler**.`)
   }
   if (msg.content.toLocaleLowerCase() === prefix + "sonyayın") {
-      msg.channel.sendMessage('https://youtu.be/dikgWUcHOAc')
+      msg.channel.sendMessage('https://www.youtube.com/watch?v=1a1vBHFVGYs')
   }
   if (msg.content.toLocaleLowerCase() === prefix + "aboneol") {
     msg.channel.sendMessage('https://www.youtube.com/channel/UCxcRLfaS-4pGaEfEbDptSWQ')
